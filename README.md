@@ -1,6 +1,6 @@
 ## Image Pull
 
-Simple utility to extract images from Powerpoint and Word files.
+Simple utility to extract images from Powerpoint and Word documents.
 
 Supports:
  - .pptx
